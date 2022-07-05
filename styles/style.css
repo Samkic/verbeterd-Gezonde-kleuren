@@ -1,0 +1,84 @@
+#header{
+    background-color: rgba(189, 61, 61, 0.926);
+    width: 100vw;
+    height: 15vh;
+    font-size: 300%;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+
+}
+#footer {
+        background-color: rgba(189, 61, 61, 0.926);
+        width: 100vw;
+        height: 30vh;
+        font-size: 60px;
+        font-family:'Times New Roman';
+        text-align: center;
+        
+
+}
+
+body{
+    background-color: rgba(209, 119, 119, 0.838);
+}
+
+table{
+    width: 70%;
+    height: 100%;
+    border-style:dashed;
+    border-color: burlywood;
+}
+
+#red{ 
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+
+#purple {
+    background-color: blueviolet;
+}
+#pink {
+    background-color: pink;
+}
+#beige {
+    background-color: bisque;
+}
+#navy {
+    background-color: navy;
+}
+
+#burgundy{ 
+    background-color: brown;
+}
+#grey{
+    background-color: grey;
+}
+#mustard{
+    background-color: orangered;
+}
+#orange{
+    background-color: chocolate;
+}
+
+#gold {
+    background-color: gold;
+}
+#silver {
+    background-color: silver;
+}
+#bronze {
+    background-color: coral;
+}
+#copper {
+    background-color: brown;
+}
+
